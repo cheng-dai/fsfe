@@ -1,7 +1,7 @@
 const http = require('http');
 
 http.createServer((req,res) => {
-    res.write("kulturbullar 2025, see you soon.")
+    res.write("kulturbullar 2025, see you soon!")
     res.end();
 }
     
